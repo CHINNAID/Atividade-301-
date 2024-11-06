@@ -12,6 +12,6 @@ public class IndexController {
 		//return "HOME";
 		System.out.println("Evento Salvo com Sucessoo");
 		System.out.println("bem Vindo");
-		return "SalvoComSucesso";
+		return "HOME";
 	}
 }
